@@ -1,5 +1,6 @@
 # Malta GPG SDK
 
+[![CircleCI](https://circleci.com/gh/Born-MT/mita-gpg-sdk/tree/main.svg?style=svg)](https://circleci.com/gh/Born-MT/mita-gpg-sdk/tree/main)
 [![PHP Version](https://img.shields.io/badge/php-%5E8.1-blue)](https://php.net)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
