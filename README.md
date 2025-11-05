@@ -462,7 +462,7 @@ The MIT License (MIT). Please see [License File](LICENSE) for more information.
 
 ## Credits
 
-- **Born MT** - https://bornmt.com
+- **Born MT** - https://born.mt
 - **Malta Information Technology Agency (MITA)** - https://mita.gov.mt
 - **APCOPay** - Payment gateway provider
 
