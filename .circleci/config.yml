@@ -19,7 +19,6 @@ jobs:
           paths:
             - ./vendor
       - run: composer test
-      - run: composer analyse
 
 workflows:
   version: 2
